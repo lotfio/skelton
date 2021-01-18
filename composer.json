@@ -32,6 +32,8 @@
 
     "minimum-stability": "dev",
 
+    "prefer-stable": true,
+
     "scripts": {
 
         "post-update-cmd": "Bin\\Installer::postUpdate",
